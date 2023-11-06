@@ -67,12 +67,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HomeGoogle.cs" />
-    <Compile Include="Navigation.cs" />
-    <Compile Include="SwagLabsHome.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Page\HomeGoogle.cs" />
+    <Compile Include="Page\Navigation.cs" />
+    <Compile Include="Page\SwagLabsHome.cs" />
+    <Compile Include="Test\UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ValuesToEnter.cs" />
+    <Compile Include="Page\ValuesToEnter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
